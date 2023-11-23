@@ -1,0 +1,43 @@
+[
+  
+    {
+      "name": "Meeting",
+      "image": "https://i.pinimg.com/236x/a0/52/d4/a052d4800584757f280736f9b150b943.jpg",
+      "description": "Meeting is done to clear the feedbacks and have a follow up",
+      "description1":"Meeting Service or “Meeting Services” means all features and ancillary services developed by or on behalf of Respondent and used in the context of a Meeting (e.g., video, audio, chat, content-sharing, recording, and storage of recordings). “Meeting Service” or “Meeting Services” does not include any plugin, cookie, or application that is offered or provided by a third party, including but not limited to, applications offered by third parties through the Zoom app store."
+    },
+    {
+      "name": "Finance",
+      "image": "https://i.pinimg.com/564x/3f/b8/d4/3fb8d4fc28943b6d27a5ab75a71b7166.jpg",
+      "description": "It involves the transaction required to obtain the financial good.",
+      "description1":"The financial sector covers many different types of transactions in such areas as real estate, consumer finance, banking, and insurance. It also covers a broad spectrum of investment funding, including securities"
+    },
+    {
+      "name": "Rules",
+      "image": "https://i.pinimg.com/564x/cc/67/57/cc67570628c37a798a1453301960f791.jpg",
+      "description": "It enables an application developer to take a decision first approach using top down modeling.",
+      "description1":"Rule service is an interface that allows consumption of rulesets that an external application requires, by executing the business logic and returning the results to the application using a set of APIs."
+    },
+    {
+      "name": "Delivery",
+      "image": "https://i.pinimg.com/564x/9e/bb/b8/9ebbb89ed3ea00410c31b26788e4093c.jpg",
+      "description": "Shipped products are physical products that are purchased and shipped to a customer",
+      "description1":"Delivery Services are billable services that are directly associated with a product in a sales order or a return order, for example, the delivery of a high-definition television. Stand-alone delivery service lines can also be created, and if required, associated with a product at a later time."
+    },
+    {
+      "name": "Website",
+      "image": "https://i.pinimg.com/564x/f4/47/8b/f4478b0a303a167a35d6a262d27172fa.jpg",
+      "description": "It is that applications can be written in various languages and are still able to communicate by exchanging data with one another via a web service between clients and servers.",
+      "description1":"Web services offer different benefits across business operations. The technology helps IT pros and web architects streamline connectivity by minimizing development time. And with this simplified infrastructure, company executives begin to see higher ROI (return on investment)."
+    },
+    {
+      "name": "Complaints",
+      "image": "https://i.pinimg.com/564x/a6/c2/fc/a6c2fc623fb9f2379ea80adc53a4e11b.jpg",
+      "description": "They are pieces of feedback that point out problems with your company's product or services.",
+      "description1":"Customer complaints are pieces of feedback that point out problems with your company's product or services. These are opportunities for your business to improve its internal processes and create a better customer experience."
+    }
+  
+    
+]
+
+
